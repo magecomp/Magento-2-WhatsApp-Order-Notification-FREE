@@ -1,4 +1,4 @@
-# [WhatsApp Order Notification Free](https://magecomp.com/magento-2-whatsapp-order-notification-free.html) by MageComp
+# [Magento 2 WhatsApp Order Notification FREE](https://magecomp.com/magento-2-whatsapp-order-notification-free.html) by MageComp
 
 The admin can send purchase progress notifications to a customer's WhatsApp number using the MageComp WhatsApp Order Notification Extension for Magento 2.
 
