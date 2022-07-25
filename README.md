@@ -97,3 +97,44 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Other Magento 2 Extensions by MageComp
 
+[Magento 2 SMS Ultimate](https://magecomp.com/magento-2-sms-ultimate.html)
+
+[Magento 2 Web Push Notifications Extension](https://magecomp.com/magento-2-web-push-notifications.html)
+
+[Magento 2 Banner Slider Extension](https://magecomp.com/magento-2-banner-slider-extension.html)
+
+[Magento 2 Shop by Brand Extension](https://magecomp.com/magento-2-shop-by-brand.html)
+
+[Magento 2 Wishlist Rest API](https://magecomp.com/magento-2-wishlist-rest-api.html)
+
+[Magento 2 Auto Related Products Extension](https://magecomp.com/magento-2-auto-related-products.html)
+
+[Magento 2 Admin Actions Log Extension](https://magecomp.com/magento-2-admin-actions-log.html)
+
+[Magento 2 Quantity Increment Decrement](https://magecomp.com/magento-2-quantity-increment-decrement.html)
+
+[Magento 2 Customer Avatar](https://magecomp.com/magento-2-customer-avatar.html)
+
+[Magento 2 Social Login Extension](https://magecomp.com/magento-2-social-login-extension.html)
+
+## Magento Marketplace Extension by MageComp
+
+[Magento 2 Assign Order To Customer](https://marketplace.magento.com/magecomp-magento-2-assign-order-to-customer.html)
+
+[Magento 2 Hide Price](https://marketplace.magento.com/magecomp-module-hideprice.html)
+
+[Magento 2 Size Chart](https://marketplace.magento.com/magecomp-module-sizechart.html)
+
+[Magento 2 Affiliate Product Links](https://marketplace.magento.com/magecomp-affiliate.html)
+
+[Magento 2 Review Reminder](https://marketplace.magento.com/magecomp-module-reviewreminder.html)
+
+[Magento 2Order On WhatsApp](https://marketplace.magento.com/magecomp-module-orderonwhatsapp.html)
+
+[Magento 2 Mobile Login](https://marketplace.magento.com/magecomp-module-mobilelogin.html)
+
+[Magento 2 Google Language Translator](https://marketplace.magento.com/magecomp-module-googlelangtranslator.html)
+
+[Magento 2 Out Of Stock Products List](https://marketplace.magento.com/magecomp-module-outofstock.html)
+
+[Magento 2 Payment Fee](https://marketplace.magento.com/magecomp-module-paymentfee.html)
