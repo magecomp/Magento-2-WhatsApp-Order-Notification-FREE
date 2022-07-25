@@ -1,4 +1,4 @@
-# [Magento 2 Restrict Payment Based on Shipping](https://magecomp.com/magento-2-restrict-payment-based-on-shipping.html) by MageComp
+# [WhatsApp Order Notification Free](https://magecomp.com/magento-2-whatsapp-order-notification-free.html) by MageComp
 
 The admin can send purchase progress notifications to a customer's WhatsApp number using the MageComp WhatsApp Order Notification Extension for Magento 2.
 
