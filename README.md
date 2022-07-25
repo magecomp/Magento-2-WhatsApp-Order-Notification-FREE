@@ -35,3 +35,65 @@ You may enhance the user experience of your online store by using free WhatsApp 
 
 ## Screenshots
 
+**1. configuration**
+
+![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/1/_/1.configuration.webp)
+
+**2. WhatsApp Payment Gateway API**
+
+![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/2/_/2.whatsapp_payment_gateway_api.webp)
+
+**3. Country Flag Option**
+
+![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/c/o/country_flag_option.webp)
+
+**4. Order PLacement Notification Setting**
+
+![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/3/_/3.order_placement_notification_settings_new.webp)
+
+**5. Country Flag Option Frontend**
+
+![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/c/o/country_flag_option_frontend.webp)
+
+**6. Shipment Notification Setting**
+
+![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/4/_/4.shipment_notification_settings_new.webp)
+
+## Change Log
+
+**Version 1.0.4**
+
+Compatible with the latest Magento 2.4.4 version
+
+Compatible with Magento Coding Standards
+
+**Version 1.0.3**
+
+Country Flag Added at Checkout
+
+New Custom API implemented
+
+**Version 1.0.2**
+
+Compatible with Magento 2.3.6 and 2.4.1 Latest Magento version
+
+Minor Bug Fixing For improved User Experience
+
+**Version 1.0.1**
+
+Minor Bug Fixing
+
+## Support
+
+In case of any queries about our extensions or services, feel free to write to us at our [Support Portal](https://magecomp.com/support/).
+
+## Contact us
+
+In case you would want to contact us, reach out to us at:
+
+Phone: +917990250277
+
+Email: [support@magecomp.com](mailto:support@magecomp.com)
+
+## Other Magento 2 Extensions by MageComp
+
