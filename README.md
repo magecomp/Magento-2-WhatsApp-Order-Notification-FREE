@@ -35,7 +35,7 @@ You may enhance the user experience of your online store by using free WhatsApp 
 
 ## Screenshots
 
-**1. configuration**
+**1. Configuration**
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/1/_/1.configuration.webp)
 
@@ -47,7 +47,7 @@ You may enhance the user experience of your online store by using free WhatsApp 
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/c/o/country_flag_option.webp)
 
-**4. Order PLacement Notification Setting**
+**4. Order Placement Notification Setting**
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/3/_/3.order_placement_notification_settings_new.webp)
 
