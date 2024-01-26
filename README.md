@@ -1,140 +1,88 @@
-# [Magento 2 WhatsApp Order Notification FREE](https://magecomp.com/magento-2-whatsapp-order-notification-free.html) by MageComp
+# Magento 2 WhatsApp Order Notification Extension
+
+![Screenshot (14)](https://github.com/magecomp/Magento-2-WhatsApp-Order-Notification-FREE/assets/8856845/3c07bab6-d2d5-4871-98df-a1828831647c)
 
 The admin can send purchase progress notifications to a customer's WhatsApp number using the MageComp WhatsApp Order Notification Extension for Magento 2.
 
 <a href="https://magecomp.com/magento-2-whatsapp-order-notification-free.html"><img width="300" height="92" src="https://magecomp.com/media/button.webp"></a>
 
-## Requirements
-* Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
+# Contribute & Explore Your Coding Skills
+We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 WhatsApp Order Notification module. Be ready to hit your keyboard keys & get listed today!
 
-## Main Features
+<a href="https://github.com/magecomp/Magento-2-WhatsApp-Order-Notification-FREE/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=magecomp/Magento-2-WhatsApp-Order-Notification-FREE" />
+</a>
 
-* MageComp with Twilio WhatsApp API integration for notification sending
+# Benefits
 
-* Place Purchase Send Customer notification.
+* Free WhatsApp Order Notification for Magento integrates Twilio and MageComp WhatsApp APIs to send notifications quickly.
 
-* Order Shipment to Send Customer notification
+* With the help of Free WhatsApp Order Notification, the store administrator can easily send updates regarding order placing and order shipment notifications.
 
-* Option to Display Country Flag in Front-End
+* You may enhance the user experience of your online store by using free WhatsApp Order Notification to inform clients about the status of their orders.
 
-* Start using your own number as a sender number for $15 per month.
+# What About the Pricing?
 
-## Benefits
+* It's completely FREE OF CHARGE.
 
-* **1. In-built Integrate whatsapp API**
+# Compatibility with Magento Versions
 
-Free WhatsApp Order Notification for Magento integrates Twilio and MageComp WhatsApp APIs to send notifications quickly.
+* Magento  2.2.0 - 2.4.x (CE, EE, ECE)
 
-* **2. Send Notifications to Customer**
+# Installing Via Composer
+  
+<img src="https://i.ibb.co/NjGRFCt/composer.png">
+Specify project dependencies using a JSON file & leave everything to Composer.
 
-With the help of Free WhatsApp Order Notification, the store administrator can easily send updates regarding order placing and order shipment notifications.
+# Compatible with Hyvä 
 
-* **3. Enhance User Experience of Magento 2 Store**
+![Screenshot (20)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/c0a5c632-fa58-4b84-bba4-2a3d26e4358e)
 
-You may enhance the user experience of your online store by using free WhatsApp Order Notification to inform clients about the status of their orders.
 
-## Screenshots
+# Features
 
-**1. Configuration**
+* FREE WhatsApp Order Notifications
+* Go Beyond 160 Characters
+* In-built Integrated APIs
+* Send Notifications About Order Place & Order Shipment
+* Amplify the UX of Your Magento Store
+
+# Configuration
+**1. You may enable or disable the extension from here. To use the WhatsApp Order Notification extension's functionality, set it to enabled.**
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/1/_/1.configuration.webp)
 
-**2. WhatsApp Payment Gateway API**
-
+**2. WhatsApp Gateway Configuration**
+  
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/2/_/2.whatsapp_payment_gateway_api.webp)
 
 **3. Country Flag Option**
-
+  
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/c/o/country_flag_option.webp)
 
-**4. Order Placement Notification Setting**
+**4. Order Placement Notification Settings**
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/3/_/3.order_placement_notification_settings_new.webp)
 
-**5. Country Flag Option Frontend**
-
-![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/c/o/country_flag_option_frontend.webp)
-
-**6. Shipment Notification Setting**
+**5. Shipment Notification Setting**
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/4/_/4.shipment_notification_settings_new.webp)
 
-## Change Log
-
-**Version 1.0.4**
-
-Compatible with the latest Magento 2.4.4 version
-
-Compatible with Magento Coding Standards
-
-**Version 1.0.3**
-
-Country Flag Added at Checkout
-
-New Custom API implemented
-
-**Version 1.0.2**
-
-Compatible with Magento 2.3.6 and 2.4.1 Latest Magento version
-
-Minor Bug Fixing For improved User Experience
-
-**Version 1.0.1**
-
-Minor Bug Fixing
-
 ## Support
 
-In case of any queries about our extensions or services, feel free to write to us at our [Support Portal](https://magecomp.com/support/).
+Write to us at our [Support Portal](https://magecomp.com/support/) for queries about our Magento 2 extensions or services.
 
-## Contact us
+# Contact Us
+**MageComp**
 
-In case you would want to contact us, reach out to us at:
+**Head Quarters:** 304-305, Eva Surbhi Complex, Waghawadi Road, Bhavnagar, Gujarat (India)
 
-Phone: +917990250277
+**Branch:** 1212, Shilp Zaveri, Shyamal Cross Road, Satellite, Ahmedabad, Gujarat, India.
 
-Email: [support@magecomp.com](mailto:support@magecomp.com)
+**Representative office:** 9 Sunbird Crescent, Scarborough M1V3M6 (Canada)
 
-## Other Magento 2 Extensions by MageComp
+**Phone:** +91 79902 50277
 
-[Magento 2 SMS Ultimate](https://magecomp.com/magento-2-sms-ultimate.html)
+**Email:** [support@magecomp.com](mailto:support@magecomp.com)
 
-[Magento 2 Web Push Notifications Extension](https://magecomp.com/magento-2-web-push-notifications.html)
-
-[Magento 2 Banner Slider Extension](https://magecomp.com/magento-2-banner-slider-extension.html)
-
-[Magento 2 Shop by Brand Extension](https://magecomp.com/magento-2-shop-by-brand.html)
-
-[Magento 2 Wishlist Rest API](https://magecomp.com/magento-2-wishlist-rest-api.html)
-
-[Magento 2 Auto Related Products Extension](https://magecomp.com/magento-2-auto-related-products.html)
-
-[Magento 2 Admin Actions Log Extension](https://magecomp.com/magento-2-admin-actions-log.html)
-
-[Magento 2 Quantity Increment Decrement](https://magecomp.com/magento-2-quantity-increment-decrement.html)
-
-[Magento 2 Customer Avatar](https://magecomp.com/magento-2-customer-avatar.html)
-
-[Magento 2 Social Login Extension](https://magecomp.com/magento-2-social-login-extension.html)
-
-## Magento Marketplace Extension by MageComp
-
-[Magento 2 Assign Order To Customer](https://marketplace.magento.com/magecomp-magento-2-assign-order-to-customer.html)
-
-[Magento 2 Hide Price](https://marketplace.magento.com/magecomp-module-hideprice.html)
-
-[Magento 2 Size Chart](https://marketplace.magento.com/magecomp-module-sizechart.html)
-
-[Magento 2 Affiliate Product Links](https://marketplace.magento.com/magecomp-affiliate.html)
-
-[Magento 2 Review Reminder](https://marketplace.magento.com/magecomp-module-reviewreminder.html)
-
-[Magento 2Order On WhatsApp](https://marketplace.magento.com/magecomp-module-orderonwhatsapp.html)
-
-[Magento 2 Mobile Login](https://marketplace.magento.com/magecomp-module-mobilelogin.html)
-
-[Magento 2 Google Language Translator](https://marketplace.magento.com/magecomp-module-googlelangtranslator.html)
-
-[Magento 2 Out Of Stock Products List](https://marketplace.magento.com/magecomp-module-outofstock.html)
-
-[Magento 2 Payment Fee](https://marketplace.magento.com/magecomp-module-paymentfee.html)
+<img src="https://magecomp.com/media/logo/websites/1/Magecomp_Logo_251x51.png">
